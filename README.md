@@ -9,7 +9,7 @@ If you would like to retrace your steps, you can always revisit the exercise.
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/FassihFayyaz/skills-introduction-to-github/issues/1)
 
 > [!TIP]
-> Mona won't grade you this time! 😉
+> Mona won't grade you this time! 😉 You are amazing.
 
 
 ### Craving more? :raising_hand:
